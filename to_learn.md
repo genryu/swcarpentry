@@ -11,3 +11,9 @@ Things we are learning at SWC
 ** Add files to git repos.
 ** Commit messages.
 ** Atomic commits.
+** GitHub account
+** Fork
+** Upstream
+** Merge
+
+*** Added Shadaba to remote
