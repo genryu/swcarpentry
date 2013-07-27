@@ -12,3 +12,5 @@ Things we are learning at SWC
 ** Commit messages.
 ** Atomic commits.
 ** origin and upstream are names of to remotes
+
+** Added genryu
